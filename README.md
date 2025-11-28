@@ -32,6 +32,14 @@ Each dashboard is designed to be **user-friendly**, interactive, and highlights 
 - Enables exploration by author, genre, and book titles.  
 → [View PBIX](powerbi/goodreads_analysis.pbix)
 
+### 🏬 Superstore Sales Forecasting & Insights
+> Combining Power BI with Python’s Prophet for sales forecasting and deep sales analysis.
+
+- Full SQL workflow: Database creation, dimensional modeling (fact_sales + dimensions), and ETL into a clean star schema.
+- Includes Actual vs Forecast sales, KPI indicators, category-level insights, and advanced trend visuals.  
+- Forecasting performed using Python Prophet and imported into Power BI for visual analysis.  
+→ [View PBIX]([powerbi/goodreads_analysis.pbix](https://app.powerbi.com/groups/me/reports/61dd87ef-94cd-4d0d-8740-54f49f78d9d8/74b58b440098b060ba10?experience=power-bi))
+
 ---
 
 ## 🧰 Tools & Libraries
