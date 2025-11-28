@@ -23,7 +23,7 @@ Each dashboard is designed to be **user-friendly**, interactive, and highlights 
 
 - Visualizations include sales over time, top-selling products, and stock status.  
 - Designed for quick insights and decision-making.  
-→ [View PBIX](https://github.com/Leastri/power-bi-projects/blob/8db12f75558db40ca7d63e8500c17e021342fb92/BikeShopRevenue.pbix)
+→ [View PBIX](https://app.powerbi.com/groups/me/reports/5dae4c71-f1c5-4e20-bae1-c25c7617ac61/a7f6734e3a23a6be0954?experience=power-bi)
 
 ### 📚 GoodReads Data Analysis
 > Analyzing user preferences, ratings, and trends in book reading behavior.  
